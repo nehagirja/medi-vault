@@ -1,3 +1,4 @@
+## 📌 Overview
 This project was developed as part of the **Final Project for Object-Oriented Design** at **Northeastern University**.  
 It is a **Spring Boot application** with Maven configuration, demonstrating clean architecture, modular design, and secure web development practices.
 
@@ -21,5 +22,4 @@ It is a **Spring Boot application** with Maven configuration, demonstrating clea
 - **PostgreSQL** (Database)  
 - **JWT (JSON Web Tokens)** for authentication  
 - **Thymeleaf** (UI layer)  
-- **Maven Wrapper** (`mvnw`, `mvnw.cmd`)  
-
+- **Maven Wrapper** (`mvnw`, `mvnw.cmd`)
